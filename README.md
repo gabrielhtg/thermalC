@@ -13,7 +13,7 @@ Program ini terdiri atas 2 versi, yaitu:
    Ini adalah versi yang mengonversi nilai dari satu satuan suhu yang di input dengan 3 satuan suhu lainnya yang dapat dikonversi oleh program ini.
 
 Itu saja :v. Selamat mencoba :smile:. <br>
-Jangan lupa untuk melaporkan bug kepada saya, jika kalian menemukannya. Thank you.
+Jangan lupa untuk melaporkan bug kepada saya jika kalian menemukannya. Thank you.
 
 ## <b>About Me</b>
 
